@@ -1913,6 +1913,7 @@ namespace ShareX
                     case HotkeyType.ToggleActionsToolbar: return Resources.ui_toolbar__arrow;
                     case HotkeyType.ToggleTrayMenu: return Resources.ui_menu_blue;
                     case HotkeyType.ExitShareX: return Resources.cross;
+                    case HotkeyType.ResetAutoIncrementNumber: return Resources.navigation_000_button;
                 }
             }
 
